@@ -1,0 +1,10 @@
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\bin\Debug\editorDeTexto.exe.config
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\bin\Debug\editorDeTexto.exe
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\bin\Debug\editorDeTexto.pdb
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.csprojAssemblyReference.cache
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.Form1.resources
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.Properties.Resources.resources
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.csproj.GenerateResource.cache
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.exe
+C:\Users\csharp8474\source\repos\editorDeTexto\editorDeTexto\obj\Debug\editorDeTexto.pdb
